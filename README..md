@@ -27,8 +27,8 @@ attempt count, with the option to play multiple rounds.
    ```
 2. Clone this repository:
    ```
-   git clone <YOUR-GITHUB-REPO-LINK-HERE>
-   cd <REPO-FOLDER-NAME>
+   git clone https://github.com/kavyamalkagoni/CodeOrbit_PythonInternship
+   cd CodeOrbit_PythonInternship
    ```
 3. Run any of the scripts:
    ```
@@ -37,7 +37,7 @@ attempt count, with the option to play multiple rounds.
    ```
 
 ## GitHub Repository Link
-<PASTE-YOUR-REPO-LINK-HERE>
+https://github.com/kavyamalkagoni/CodeOrbit_PythonInternship
 
 ## Author
 Malkagoni Kavya
